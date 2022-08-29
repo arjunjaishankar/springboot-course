@@ -1,2 +1,2 @@
 # springboot-course
-This repository is used to push spring boot courses and projects
+This repository is used to upload spring boot courses and projects
